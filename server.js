@@ -25,5 +25,3 @@ app.listen(PORT, () => {
     console.log(`I am listening on port ${PORT}`)
 })
 
-// GzAZNJXCxqeBDYKQ askyulya
-// mongodb+srv://askyulya:<password>@workout.njc9beg.mongodb.net/?retryWrites=true&w=majority&appName=workout
